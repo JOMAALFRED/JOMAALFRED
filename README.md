@@ -6,7 +6,7 @@
 
 *Building production SaaS from Antananarivo, Madagascar 🇲🇬*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jomaalfred.github.io-0d9b76?style=flat-square&logo=github)](https://jomaalfred.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jomaalfred.github.io-0d9b76?style=flat-square&logo=github)](https://jomaalfred.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/jomaalfred)
 [![Email](https://img.shields.io/badge/Email-jomaalfredm@gmail.com-D44638?style=flat-square&logo=gmail)](mailto:jomaalfredm@gmail.com)
 
